@@ -2,20 +2,24 @@
 <h3 align="center">A Passionate Developer & AIML Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
-  🎓 2nd Year B.Tech CSE (AI & ML) &nbsp;·&nbsp; 🧠 Building real-world <strong>ML, Computer Vision, and AI applications</strong> &nbsp;·&nbsp; 📍 West Bengal, India
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=subhankarnandi777&label=Profile%20Views&color=7c3aed&style=flat-square" alt="profile views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+- 🎓 2nd Year B.Tech CSE (AI & ML)
+- 🧠 Building real-world **ML, Computer Vision, and AI applications**
+- 📍 West Bengal, India
 - 🌱 Currently learning **React & Machine Learning**
 - 🤖 Interested in **AI, OpenCV, Robotics & Web Development**
-- 🔭 Currently exploring: **Computer Vision, Retrieval-Augmented Generation (RAG), and ML deployment**
+- 🔭 Currently exploring: **Computer Vision, RAG, and ML deployment**
 - 📫 Email: **subhankarnandi2006@gmail.com**
+
+<br clear="right"/>
 
 ---
 
