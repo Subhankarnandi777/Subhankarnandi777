@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding Boy" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 - 🎓 2nd Year B.Tech CSE (AI & ML)
 - 🧠 Building real-world **ML, Computer Vision, and AI applications**
@@ -19,7 +19,7 @@
 - 🔭 Currently exploring: **Computer Vision, RAG, and ML deployment**
 - 📫 Email: **subhankarnandi2006@gmail.com**
 
-<br clear="right"/>
+<br/><br/><br/><br/>
 
 ---
 
