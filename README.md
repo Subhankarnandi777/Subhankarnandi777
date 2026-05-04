@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding Boy" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding Boy" width="280" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif"/>
 
 - 🎓 2nd Year B.Tech CSE (AI & ML)
 - 🧠 Building real-world **ML, Computer Vision, and AI applications**
