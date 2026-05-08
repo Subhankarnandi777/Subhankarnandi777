@@ -36,12 +36,19 @@
 
 # 💫 About Me
 
-```python
 class SubhankarNandi:
 
     def __init__(self):
         self.role = "AI Engineer & ML Developer"
-        self.language = ["Python", "Java", "C", "C++", "JavaScript"]
+
+        self.languages = [
+            "Python",
+            "Java",
+            "C",
+            "C++",
+            "JavaScript"
+        ]
+
         self.interests = [
             "Machine Learning",
             "Deep Learning",
@@ -57,7 +64,9 @@ me = SubhankarNandi()
 
 ---
 
-<h2 align="center">🏆 GitHub Achievements</h2><div align="center"><img src="https://github-profile-trophy.vercel.app/?username=subhankarnandi777&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7"/></div>---
+<h2 align="center">🏆 GitHub Achievements</h2><div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=subhankarnandi777&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+</div>---
 
 <h2 align="center">📈 GitHub Analytics</h2><div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=subhankarnandi777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=subhankarnandi777&theme=tokyonight&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhankarnandi777&layout=compact&theme=tokyonight&hide_border=true"/></div>---
 
@@ -80,4 +89,3 @@ me = SubhankarNandi()
 <div align="center">✨ Learn • Build • Innovate ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,50:000000,100:0d1117"/></div>
-```
