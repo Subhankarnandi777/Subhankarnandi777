@@ -37,23 +37,7 @@
 <div align="center">  
 
 </div>  
----
-
-<h3 align="center">Social Media</h3>  <p align="center">  
-  <a href="https://www.linkedin.com/in/subhankar-nandi-09a83b317" target="_blank">  
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
-  </a>  
-  <a href="mailto:subhankarnandi2006@gmail.com">  
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
-  </a>  
-  <a href="https://www.instagram.com/poetic_subho" target="_blank">  
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>  
-  </a>  
-  <a href="https://www.facebook.com/share/1danjmvzoe/" target="_blank">  
-    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>  
-  </a>  
-</p>  
----
+--
 
 <h3 align="center">GitHub Trophies</h3>  <p align="center">  
   <img src="https://github-profile-trophy.vercel.app/?username=subhankarnandi777&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>  
