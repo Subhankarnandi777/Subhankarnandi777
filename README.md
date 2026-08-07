@@ -1,125 +1,153 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,50:000000,100:0d1117&text=Subhankar%20Nandi&fontSize=58&fontAlignY=38&fontColor=00d9ff&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Data%20Analyst&descAlignY=60&descSize=22&descColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,25&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Subhankar&fontSize=48&fontAlignY=35&fontColor=ffffff&desc=AI%20Engineer%20%E2%80%A2%20ML%20Developer%20%E2%80%A2%20Data%20Analyst&descAlignY=55&descSize=20&descColor=00d9ff&animation=twinkling"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Turning+Data+into+Decisions;Training+Models+that+Matter;Building+with+LLMs+%26+RAG+Pipelines;Full+Stack+Meets+Machine+Learning;Always+Shipping%2C+Always+Learning"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Data+Science+Explorer;Building+Innovative+Projects+with+AI;Always+Learning+New+Technologies"/>
+<img src="https://komarev.com/ghpvc/?username=subhankarnandi777&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/subhankarnandi777?label=FOLLOWERS&style=for-the-badge&color=00d9ff"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-success?style=for-the-badge"/>
 
 </div>
 
----
+<br>
 
-<h2 align="center">🌐 Connect With Me</h2>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🧠 About Me
+
+```yaml
+name: Subhankar Nandi
+role: AI Engineer / ML Developer / Data Analyst
+focus: [Machine Learning, Deep Learning, GenAI, Data Analytics]
+currently_building: something with LLMs + RAG
+currently_learning: advanced MLOps & system design
+side_quest: writing poetry 📝
+motto: "Learn. Build. Ship. Repeat."
+```
+
+- 🔭 Working on real-world **AI/ML** and data-driven projects
+- 🌱 Leveling up in **GenAI, LangChain & MLOps**
+- 🤝 Open to collaborating on **AI, ML & data analytics** projects
+- 📫 **subhankarnandi2006@gmail.com**
+- ⚡ Ask me about **model training, RAG pipelines, or dashboards**
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🌐 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/subhankar-nandi-09a83b317">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:subhankarnandi2006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/poetic_subho">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/share/1danjmvzoe/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/subhankar-nandi-09a83b317"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:subhankarnandi2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/poetic_subho"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/share/1danjmvzoe/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<div align="center">  
+## 🛠️ Tech Arsenal
 
-</div>  
---
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-<h3 align="center">GitHub Trophies</h3>  <p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=subhankarnandi777&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>  
-</p>  
----
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css&theme=dark"/>
 
-<h3 align="center">GitHub Stats</h3>  <p align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=subhankarnandi777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=subhankarnandi777&theme=tokyonight&hide_border=true"/>  
-</p>  <p align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhankarnandi777&theme=tokyonight&hide_border=true&layout=donut&langs_count=8"/>  
-</p>  
----
+**AI / ML**
+<br>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
 
-<h3 align="center">🖥️ 🛠️ Skilled in 💻 📊</h3>  Platform:
+</td>
+<td valign="top" width="50%">
 
-<p align="center">  
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>  
-</p>  Languages:
+**Data & Viz**
+<br>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
-<p align="center">  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>  
-</p>  AI / Machine Learning:
+**Backend / Web**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,mysql,postgres,mongodb&theme=dark"/>
 
-<p align="center">  
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=python&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/FAISS-0052CC?style=flat-square&logo=meta&logoColor=white"/>  
-</p>  Data Analytics & Visualization:
+**Tools & Platform**
+<br>
+<img src="https://skillicons.dev/icons?i=linux,windows,git,github,docker,vscode&theme=dark"/>
 
-<p align="center">  
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Seaborn-2E4057?style=flat-square&logo=python&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>  
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>  
-</p>  Frontend or UI/UX:
+</td>
+</tr>
+</table>
 
-<p align="center">  
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>  
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>  
-</p>  Database:
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<p align="center">  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>  
-</p>  DevOps & Tools:
+## 📊 GitHub Analytics
 
-<p align="center">  
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>  
-</p>  
----
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=subhankarnandi777&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhankarnandi777&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff"/>
+</p>
 
-<h3 align="center">📊 Contribution Graph</h3>  <p align="center">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhankarnandi777&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true"/>  
-</p>  
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhankarnandi777&theme=radical&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"/>
+</p>
 
-<h3 align="center">✨ Learn • Build • Innovate ✨</h3> 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhankarnandi777&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🏆 Trophy Case
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=subhankarnandi777&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/subhankarnandi777/subhankarnandi777/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+> 💡 To activate this, add the [snake workflow](https://github.com/Platane/snk) to your profile repo — it auto-generates daily from your contribution graph.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/subhankarnandi777?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhankarnandi777&repo=REPLACE_WITH_REPO_1&theme=radical&hide_border=true&bg_color=0d1117"/>
+  </a>
+  <a href="https://github.com/subhankarnandi777?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhankarnandi777&repo=REPLACE_WITH_REPO_2&theme=radical&hide_border=true&bg_color=0d1117"/>
+  </a>
+</p>
+
+> 💡 Replace `REPLACE_WITH_REPO_1` / `REPLACE_WITH_REPO_2` with your actual repository names to show live project cards here.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+<br>
+
+<div align="center">
+
+### ✨ Learn • Build • Innovate ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,25&section=footer"/>
+
+</div>
