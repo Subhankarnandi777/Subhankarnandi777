@@ -128,16 +128,68 @@ motto: "Learn. Build. Ship. Repeat."
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/subhankarnandi777?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhankarnandi777&repo=REPLACE_WITH_REPO_1&theme=radical&hide_border=true&bg_color=0d1117"/>
-  </a>
-  <a href="https://github.com/subhankarnandi777?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhankarnandi777&repo=REPLACE_WITH_REPO_2&theme=radical&hide_border=true&bg_color=0d1117"/>
-  </a>
-</p>
+<table>
+<tr>
 
-> 💡 Replace `REPLACE_WITH_REPO_1` / `REPLACE_WITH_REPO_2` with your actual repository names to show live project cards here.
+<td width="50%" valign="top">
+
+### 🤖 Real-Time Human Detection using YOLOv8
+
+AI-powered disaster management system that detects humans in real time using **YOLOv8** for search and rescue operations.
+
+**Tech Stack:**  
+`Python` `YOLOv8` `OpenCV` `Deep Learning`
+
+<br>
+
+<a href="https://github.com/Subhankarnandi777/Real-Time-Human-Detection-using-YOLOv8-for-Disaster-Management">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🖥️ Subhankar.OS
+
+A custom operating system project exploring **kernel development, process scheduling, and memory management**.
+
+**Tech Stack:**  
+`C` `C++` `Operating Systems`
+
+<br>
+
+<a href="https://github.com/Subhankarnandi777/Subhankar.OS">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+### ✍️ Handwriting Personality AI
+
+A deep learning and computer vision project that predicts personality traits from handwriting analysis.
+
+**Tech Stack:**  
+`Python` `TensorFlow` `OpenCV` `Computer Vision`
+
+<br>
+
+<a href="https://github.com/Subhankarnandi777/handwriting_personality_ai">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
