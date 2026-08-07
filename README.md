@@ -114,10 +114,16 @@ motto: "Learn. Build. Ship. Repeat."
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/subhankarnandi777/subhankarnandi777/output/github-contribution-grid-snake-dark.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Subhankarnandi777/Subhankarnandi777/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Subhankarnandi777/Subhankarnandi777/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Subhankarnandi777/Subhankarnandi777/output/github-snake.svg">
+  </picture>
 </p>
 
-> 💡 To activate this, add the [snake workflow](https://github.com/Platane/snk) to your profile repo — it auto-generates daily from your contribution graph.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
