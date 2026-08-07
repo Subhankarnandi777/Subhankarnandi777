@@ -1,1 +1,2 @@
-name: Generate Snake on: schedule: - cron: "0 0 * * *" workflow_dispatch: {} push: branches: [ main ] jobs: build: runs-on: ubuntu-latest permissions: contents: write steps: - uses: Platane/snk@v3 with: github_user_name: subhankarnandi777 outputs: | dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg?palette=github-dark - uses: crazy-max/ghaction-github-pages@v4
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.5.0
