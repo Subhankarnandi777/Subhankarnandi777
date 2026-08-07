@@ -106,7 +106,7 @@ motto: "Learn. Build. Ship. Repeat."
 ## 🏆 Trophy Case
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhankarnandi777&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Subhankarnandi777&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
