@@ -106,7 +106,7 @@ motto: "Learn. Build. Ship. Repeat."
 ## 🏆 Trophy Case
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Subhankarnandi777&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=subhankarnandi777&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -116,14 +116,13 @@ motto: "Learn. Build. Ship. Repeat."
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Subhankarnandi777/Subhankarnandi777/output/github-snake-dark.svg">
+      srcset="https://raw.githubusercontent.com/subhankarnandi777/subhankarnandi777/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Subhankarnandi777/Subhankarnandi777/output/github-snake.svg">
+      srcset="https://raw.githubusercontent.com/subhankarnandi777/subhankarnandi777/output/github-snake.svg">
     <img alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Subhankarnandi777/Subhankarnandi777/output/github-snake.svg">
+      src="https://raw.githubusercontent.com/subhankarnandi777/subhankarnandi777/output/github-snake.svg">
   </picture>
 </p>
-
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
