@@ -25,7 +25,7 @@ focus: [Machine Learning, Deep Learning, GenAI, Data Analytics]
 currently_building: something with LLMs + RAG
 currently_learning: advanced MLOps & system design
 side_quest: writing poetry 📝
-motto: "Learn. Build. Ship. Repeat."
+motto: "Learn. Build. Ship. Repeat"
 ```
 
 - 🔭 Working on real-world **AI/ML** and data-driven projects
