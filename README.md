@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/terminal-profile.svg" alt="Subhankar Nandi terminal profile" width="100%"/>
+<img src="terminal-profile.svg" alt="Subhankar Nandi terminal profile" width="100%"/>
 
 <h1>Subhankar Nandi</h1>
 
