@@ -68,7 +68,6 @@ $ cat goals.txt
 <a href="https://subhankar-os.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff9c"/></a>
 <a href="https://x.com/NandiSubho7777"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://leetcode.com/u/Subhankar_Nandi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-</a>
 
 </div>
 
@@ -287,11 +286,11 @@ $ ls ~/more-projects
 
 ## `$ ls ~/learning`
 
-| Repository | What it is | Language |
+| Repository | What it is | Stack |
 |---|---|---|
 | [`learn-cpp`](https://github.com/Subhankarnandi777/learn-cpp) | Learning data structures and algorithms using C++ | `C++` |
-| [`backend-from-scratch`](https://github.com/Subhankarnandi777/backend-from-scratch) | Learning the basics of web development | `JavaScript` `ExpressJs` `MongoDB` |
-| [`Store-Sales-Forecasting-Demand-Analysis.`](https://github.com/Subhankarnandi777/Store-Sales-Forecasting-Demand-Analysis.) | Store-Sales-Forecasting-Demand-Analysis.| `Python` `PowerBI` `XGBoost` |
+| [`backend-from-scratch`](https://github.com/Subhankarnandi777/backend-from-scratch) | Learning backend development from scratch | `JavaScript` `ExpressJs` `MongoDB` |
+| [`Store-Sales-Forecasting-Demand-Analysis`](https://github.com/Subhankarnandi777/Store-Sales-Forecasting-Demand-Analysis.) | Store sales forecasting and demand analysis | `Python` `Power BI` `XGBoost` |
 
 ## `$ ls ~/awards`
 
@@ -300,20 +299,20 @@ $ cat education.txt
 B.Tech CSE (AI & ML) · Institute of Engineering & Management, Kolkata · 2024-2028
 
 $ cat achievements.txt
-1st Place . XIBIT Hackathon , TEXIBITION
-2nd Place · Ureckon Innovation Challenge 2026
-Top 50 Finalist . IdeateX 2026
-Certs   · Advanced System Security Topics (University of Colorado)
-        · Information Theory (CUHK)
-        · Azure Fundamentals (Microsoft)
-        · Machine Learning Foundations: Statistics (LinkedIn Learning)
-        · Cyber Security Fundamentals (Coursera)
+1st Place        · XIBIT Hackathon, TEXIBITION
+2nd Place        · Ureckon Innovation Challenge 2026
+Top 50 Finalist  · IdeateX 2026
+Certs            · Advanced System Security Topics (University of Colorado)
+                 · Information Theory (CUHK)
+                 · Azure Fundamentals (Microsoft)
+                 · Machine Learning Foundations: Statistics (LinkedIn Learning)
+                 · Cyber Security Fundamentals (Coursera)
 ```
 
 ## `$ gh stats --user Subhankarnandi777`
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Subhankarnandi777&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Subhankarnandi777&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&count_private=true&include_all_commits=true&show=reviews,prs_merged,discussions_started&cache_seconds=21600"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhankarnandi777&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9"/>
 </p>
 
