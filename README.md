@@ -1,23 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0a0a0f,100:1a1a24&text=SUBHANKAR%20NANDI&fontSize=56&fontColor=fcee0a&fontAlignY=42&desc=AI%20ENGINEER%20%2F%2F%20ML%20DEVELOPER%20%2F%2F%20DATA%20ANALYST&descAlignY=68&descSize=18&descColor=00f0ff&animation=blinking"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0d0b1a,100:1b1733&text=SUBHANKAR%20NANDI&fontSize=56&fontColor=ff7a18&fontAlignY=42&desc=AI%20ENGINEER%20%2F%2F%20ML%20DEVELOPER%20%2F%2F%20DATA%20ANALYST&descAlignY=68&descSize=18&descColor=a5b4fc&animation=blinking"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&duration=2800&pause=800&color=FCEE0A&center=true&vCenter=true&width=760&lines=%3E%3E+BOOTING+PROFILE...;%3E%3E+USER%3A+SUBHANKAR_NANDI;%3E%3E+LOADING+MODULES%3A+VISION+%7C+NLP+%7C+GENAI;%3E%3E+STATUS%3A+OPEN_TO_WORK"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&duration=2800&pause=800&color=FF7A18&center=true&vCenter=true&width=760&lines=%3E%3E+BOOTING+PROFILE...;%3E%3E+USER%3A+SUBHANKAR_NANDI;%3E%3E+LOADING+MODULES%3A+VISION+%7C+NLP+%7C+GENAI;%3E%3E+STATUS%3A+OPEN_TO_WORK"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Subhankarnandi777&label=SIGNAL+HITS&color=fcee0a&style=for-the-badge&labelColor=0a0a0f"/>
-<img src="https://img.shields.io/github/followers/Subhankarnandi777?label=NETWORK&style=for-the-badge&color=ff003c&labelColor=0a0a0f"/>
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00f0ff?style=for-the-badge&labelColor=0a0a0f"/>
+<img src="https://komarev.com/ghpvc/?username=Subhankarnandi777&label=SIGNAL+HITS&color=ff7a18&style=for-the-badge&labelColor=0d0b1a"/>
+<img src="https://img.shields.io/github/followers/Subhankarnandi777?label=NETWORK&style=for-the-badge&color=6366f1&labelColor=0d0b1a"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-a5b4fc?style=for-the-badge&labelColor=0d0b1a"/>
 
 <br><br>
 
-<a href="https://subhankar-os.vercel.app"><img src="https://img.shields.io/badge/ENTER-SUBHANKAR.OS-fcee0a?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0a0f"/></a>
-<a href="https://leetcode.com/u/Subhankar_Nandi/"><img src="https://img.shields.io/badge/LEETCODE-Subhankar__Nandi-ff003c?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0f"/></a>
+<a href="https://subhankar-os.vercel.app"><img src="https://img.shields.io/badge/ENTER-SUBHANKAR.OS-ff7a18?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d0b1a"/></a>
+<a href="https://leetcode.com/u/Subhankar_Nandi/"><img src="https://img.shields.io/badge/LEETCODE-Subhankar__Nandi-6366f1?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0b1a"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:fcee0a,100:ff003c" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:ff7a18,100:6366f1" width="100%"/>
 
 ## `// PROFILE.DAT`
 
@@ -40,7 +40,7 @@
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:fcee0a,100:ff003c" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:ff7a18,100:6366f1" width="100%"/>
 
 ## `// CYBERWARE` &nbsp;<sub>installed skills</sub>
 
@@ -75,7 +75,7 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:fcee0a,100:ff003c" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:ff7a18,100:6366f1" width="100%"/>
 
 ## `// MISSIONS` &nbsp;<sub>featured projects</sub>
 
@@ -161,7 +161,36 @@ Reads handwriting from an image, extracts letter height and slant angle, transcr
 <td width="50%" valign="top">
 
 ```text
-MISSION_06 :: ARCHIVE
+MISSION_06 :: NEERSURAKSHA
+```
+
+**[Neersuraksha](https://github.com/Subhankarnandi777/neersuraksha)**
+
+<!-- TODO: add a one-line description and tech stack -->
+See the repository for details.
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+```text
+MISSION_07 :: POTHPROHORI
+```
+
+**[Pothprohori](https://github.com/Subhankarnandi777/pothprohori)**
+
+<!-- TODO: add a one-line description and tech stack -->
+See the repository for details.
+
+</td>
+
+<td width="50%" valign="top">
+
+```text
+MISSION_08 :: ARCHIVE
 ```
 
 **Also built** *(details on [Subhankar.OS](https://subhankar-os.vercel.app))*
@@ -178,7 +207,7 @@ MISSION_06 :: ARCHIVE
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:fcee0a,100:ff003c" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:ff7a18,100:6366f1" width="100%"/>
 
 ## `// RECORDS`
 
@@ -194,21 +223,21 @@ MISSION_06 :: ARCHIVE
 - **2nd Place**, Ureckon Innovation Challenge 2026
 - Certifications: Advanced System Security Topics (University of Colorado) · Information Theory (CUHK) · Azure Fundamentals (Microsoft) · Machine Learning Foundations: Statistics (LinkedIn Learning) · Cyber Security Fundamentals (Coursera)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:fcee0a,100:ff003c" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:ff7a18,100:6366f1" width="100%"/>
 
 ## `// DIAGNOSTICS` &nbsp;<sub>github stats</sub>
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Subhankarnandi777&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=fcee0a&icon_color=00f0ff&text_color=e5e5e5&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhankarnandi777&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=fcee0a&text_color=e5e5e5"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Subhankarnandi777&show_icons=true&hide_border=true&bg_color=0d0b1a&title_color=ff7a18&icon_color=a5b4fc&text_color=e5e5e5&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhankarnandi777&layout=compact&hide_border=true&bg_color=0d0b1a&title_color=ff7a18&text_color=e5e5e5"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhankarnandi777&hide_border=true&background=0a0a0f&ring=fcee0a&fire=ff003c&currStreakLabel=fcee0a&currStreakNum=e5e5e5&sideNums=e5e5e5&sideLabels=00f0ff&dates=8b8b99"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhankarnandi777&hide_border=true&background=0d0b1a&ring=ff7a18&fire=6366f1&currStreakLabel=ff7a18&currStreakNum=e5e5e5&sideNums=e5e5e5&sideLabels=a5b4fc&dates=8b8b99"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhankarnandi777&bg_color=0a0a0f&color=fcee0a&line=ff003c&point=00f0ff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhankarnandi777&bg_color=0d0b1a&color=ff7a18&line=6366f1&point=a5b4fc&area=true&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -226,7 +255,7 @@ src="https://raw.githubusercontent.com/Subhankarnandi777/Subhankarnandi777/outpu
 </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:fcee0a,100:ff003c" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:ff7a18,100:6366f1" width="100%"/>
 
 ## `// COMLINK` &nbsp;<sub>open channel</sub>
 
@@ -249,6 +278,6 @@ src="https://raw.githubusercontent.com/Subhankarnandi777/Subhankarnandi777/outpu
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:fcee0a,100:ff003c&section=footer&text=END_OF_TRANSMISSION&fontSize=22&fontColor=0a0a0f&fontAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:ff7a18,100:6366f1&section=footer&text=END_OF_TRANSMISSION&fontSize=22&fontColor=ffffff&fontAlignY=60"/>
 
 </div>
