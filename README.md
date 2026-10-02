@@ -290,9 +290,9 @@ $ ls ~/more-projects
 
 | Repository | What it is | Language |
 |---|---|---|
-| [`DSA-in-C`](https://github.com/Subhankarnandi777/DSA-in-C) | Learning data structures and algorithms using C | `C` |
-| [`HTML-CSS-JS-PROJECTS`](https://github.com/Subhankarnandi777/HTML-CSS-JS-PROJECTS) | Learning the basics of web development | `HTML` `CSS` `JavaScript` |
-| [`stone-paper-scissors-game`](https://github.com/Subhankarnandi777/stone-paper-scissors-game) | Stone paper scissors game | `Python` |
+| [`learn-cpp`](https://github.com/Subhankarnandi777/learn-cpp) | Learning data structures and algorithms using C++ | `C++` |
+| [`backend-from-scratch`](https://github.com/Subhankarnandi777/backend-from-scratch) | Learning the basics of web development | `JavaScript` `ExpressJs` `MongoDB` |
+| [`Store-Sales-Forecasting-Demand-Analysis.`](https://github.com/Subhankarnandi777/Store-Sales-Forecasting-Demand-Analysis.) | Store-Sales-Forecasting-Demand-Analysis.| `Python` `PowerBI` `XGBoost` |
 
 ## `$ ls ~/awards`
 
@@ -301,7 +301,9 @@ $ cat education.txt
 B.Tech CSE (AI & ML) · Institute of Engineering & Management, Kolkata · 2024-2028
 
 $ cat achievements.txt
+1st Place . XIBIT Hackathon , TEXIBITION
 2nd Place · Ureckon Innovation Challenge 2026
+Top 50 Finalist . IdeateX 2026
 Certs   · Advanced System Security Topics (University of Colorado)
         · Information Theory (CUHK)
         · Azure Fundamentals (Microsoft)
